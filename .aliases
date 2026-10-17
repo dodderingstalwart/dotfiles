@@ -1,2 +1,3 @@
 # alias
-alias l=ls -la"
+alias l"=ls -la"
+alias g="git"
